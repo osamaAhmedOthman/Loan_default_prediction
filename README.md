@@ -24,6 +24,8 @@ Loan_default_prediction/
 │   ├── feature_engineer.py              # Custom feature engineering class
 │   ├── pipeline_test.py                     # Script to load & test pipeline
 │ 
+├── Reports/                              # Project reports
+│   └── Loan_Default_Prediction_Report.pdf   # Full project report
 │
 ├── __pycache__/                         # Auto-generated Python cache
 │
