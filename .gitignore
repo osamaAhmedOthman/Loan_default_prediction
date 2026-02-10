@@ -1,0 +1,30 @@
+# --- Python Specific ---
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+
+# --- Machine Learning / Data ---
+*.json
+*.parquet
+*.h5
+
+# --- Docker ---
+.dockerignore
+
+# --- OS Specific ---
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+desktop.ini
+
+# --- IDEs ---
+.vscode/
+.idea/
+*.swp
+*.swo
