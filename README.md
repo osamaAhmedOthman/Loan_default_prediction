@@ -12,6 +12,11 @@ Loan_default_prediction/
 │   ├── data.csv                         # Original dataset
 │   └── data_feature_engineered.csv      # After feature engineering
 │
+├── app/
+│   ├── best_model_Logistic_Regression   # model
+│   ├── main.py                          # api file
+│   └── requirements.txt      # requirements of the api
+│
 ├── visuals/                             # Plots & visualizations
 │
 ├── notebooks/                         
