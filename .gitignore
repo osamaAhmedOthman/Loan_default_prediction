@@ -11,6 +11,7 @@ ENV/
 # --- Machine Learning / Data ---
 *.json
 *.parquet
+*.csv
 *.h5
 
 # --- Docker ---
